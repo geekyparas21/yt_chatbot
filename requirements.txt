@@ -1,0 +1,29 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# Gemini (Google Generative AI)
+langchain-google-genai
+google-generativeai
+
+# YouTube transcript
+youtube-transcript-api
+
+# Language detection
+langdetect
+
+# Embeddings + Vector store (FREE, local)
+sentence-transformers
+faiss-cpu
+
+# Text splitting
+langchain-text-splitters
+
+# Environment variables
+python-dotenv
+
+# Web UI
+streamlit
+
+tiktoken
